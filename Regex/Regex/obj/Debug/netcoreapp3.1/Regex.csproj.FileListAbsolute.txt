@@ -1,0 +1,5 @@
+/Users/ramchandran/Desktop/REGEX/Regex/Regex/obj/Debug/netcoreapp3.1/Regex.csproj.AssemblyReference.cache
+/Users/ramchandran/Desktop/REGEX/Regex/Regex/obj/Debug/netcoreapp3.1/Regex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramchandran/Desktop/REGEX/Regex/Regex/obj/Debug/netcoreapp3.1/Regex.AssemblyInfoInputs.cache
+/Users/ramchandran/Desktop/REGEX/Regex/Regex/obj/Debug/netcoreapp3.1/Regex.AssemblyInfo.cs
+/Users/ramchandran/Desktop/REGEX/Regex/Regex/obj/Debug/netcoreapp3.1/Regex.csproj.CoreCompileInputs.cache
